@@ -8,7 +8,7 @@ namespace CSharp001
 
         static void Main(string[] args)
         {
-            int a = 10, b = 20, tmp;
+            int a = 20, b = 20, tmp;
 
             tmp = a;
             a = b;
